@@ -1,0 +1,6 @@
+- Hey, I'm HK!
+- I'm an aspiring developer.
+- I code in java/javascript mostly but I also know python. 
+- I'm currently learning C++/C# 
+- I'm looking for developers to help me create a Minecraft client, haha.
+- You can reach me on my discord > HKPlays#4587
